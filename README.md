@@ -1,0 +1,2 @@
+# LightCarrier
+同InfiniteMemoriesEngine引擎内部的光携线程进行开源，遵循《中华人民共和国版权法》及其他相关法律法规进行开源
